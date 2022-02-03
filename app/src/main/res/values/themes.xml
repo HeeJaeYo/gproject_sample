@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Gproject_sample" parent="@style/Theme.Leanback" />
+</resources>
